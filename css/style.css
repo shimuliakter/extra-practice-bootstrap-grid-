@@ -1,0 +1,57 @@
+.f-heading h2{
+    font-size: 22px;
+}
+.f-heading p{
+    color: rgb(130, 131, 131);
+}
+
+/* All Featured Products starts */
+.card-design{
+    width: 95%;
+    height: 400px;
+    background-color: rgb(238, 237, 237);
+}
+.card-text h3{
+    font-size: 18px;
+}
+.card-text p{
+    font-size: 14px;
+}
+.all-p-img{
+    width: 100%;
+    height: auto;
+    background-color: rgb(238, 237, 237);
+    border-bottom: 2px solid #fff;
+}
+.card-text .item-price{
+    font-size: 18px;
+    font-weight: 600;
+    color: #ef4a23;
+}
+
+/* catagory starts */
+.catagory{
+    background-color: #f2f4f8;
+    border-radius: 10px;
+    height: 140px;
+    width: 100%;
+}
+.catagory a{
+    font-size: 50px;
+    color: #000;
+    margin-top: 8%;
+}
+.catagory a i:hover{
+    color: #ef4a23;
+    transition: all 0.2s ease-in-out;
+}
+.catagory .cat-text{
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-top: -3%;
+}
+.catagory .cat-text:hover{
+    color: #ef4a23;
+    text-decoration: underline;
+}
